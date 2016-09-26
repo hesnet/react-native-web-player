@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dabbott/react-native-web-player.git"
+    "url": "git+https://github.com/hesnet/react-native-web-player.git"
   },
-  "author": "devinabbott@gmail.com",
+  "author": "heikki.kurkela@dnainternet.net",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/dabbott/react-native-web-player/issues"
+    "url": "https://github.com/hesnet/react-native-web-player/issues"
   },
-  "homepage": "https://github.com/dabbott/react-native-web-player#readme",
+  "homepage": "https://github.com/hesnet/react-native-web-player#readme",
   "dependencies": {
     "babel-core": "^6.3.13",
     "babel-preset-react-native": "^1.9.0",
