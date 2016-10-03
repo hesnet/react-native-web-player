@@ -36,6 +36,7 @@ export default class extends Component {
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
+        backgroundColor: '#5C069A',
       },
       screen: {
         backgroundColor: 'white',
